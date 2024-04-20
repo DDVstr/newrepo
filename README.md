@@ -1,11 +1,6 @@
 
-### Creating `json` objects from JSON literals
+### Scriot to copy src from folder
 
-Assume you want to create hard-code this literal JSON value in a file, as a `json` object:
-
-```json
-{
-  "pi": 3.141,
-  "happy": true
-}
+```
+sh  file.sh <dir> <option>
 ```
