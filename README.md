@@ -2,7 +2,7 @@
 ### Script to copy src from folder
 
 ```
-sh  file.sh <dir> <option>
+python3 file.py
 ```
 Example
 ```
